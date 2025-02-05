@@ -16,6 +16,7 @@ MiniGPT is a lightweight Transformer-based language model, built entirely from s
 ✅ Deploy as an API using FastAPI  
 
 ## 📂 Project Structure
+
 📂 MiniGPT-from-Scratch/
 │── 📂 data/               # Contains dataset and preprocessing scripts
 │── 📂 models/             # Transformer model architecture
